@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin.<br>⚡ Fun fact: I use Tab instead of spaces.
+🌱 I’m currently learning about InfoSec.<br>⚡ Fun fact: I use Tab instead of spaces.
 
 
 ## 🌐 Socials:
