@@ -5,7 +5,7 @@
 # Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <br> 
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning about InfoSec.<br>
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning about Linux.<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I use Tab instead of spaces.<br>
 <img src="https://media.giphy.com/media/fc421YtZqhJMcKxJ6s/giphy.gif?cid=790b7611b3qtmt5h7347e54rsmwfevvr95bpz2m8ue9h9z5r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">&nbsp; I like to participate in CTFs.
 
